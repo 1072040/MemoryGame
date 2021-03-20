@@ -1,0 +1,10 @@
+D:\大二上\c#\1072040finalproject\1072040finalproject\bin\Debug\1072040finalproject.exe.config
+D:\大二上\c#\1072040finalproject\1072040finalproject\bin\Debug\1072040finalproject.exe
+D:\大二上\c#\1072040finalproject\1072040finalproject\bin\Debug\1072040finalproject.pdb
+D:\大二上\c#\1072040finalproject\1072040finalproject\obj\Debug\1072040finalproject.csprojAssemblyReference.cache
+D:\大二上\c#\1072040finalproject\1072040finalproject\obj\Debug\_1072040finalproject.Form1.resources
+D:\大二上\c#\1072040finalproject\1072040finalproject\obj\Debug\_1072040finalproject.Properties.Resources.resources
+D:\大二上\c#\1072040finalproject\1072040finalproject\obj\Debug\1072040finalproject.csproj.GenerateResource.cache
+D:\大二上\c#\1072040finalproject\1072040finalproject\obj\Debug\1072040finalproject.csproj.CoreCompileInputs.cache
+D:\大二上\c#\1072040finalproject\1072040finalproject\obj\Debug\1072040finalproject.exe
+D:\大二上\c#\1072040finalproject\1072040finalproject\obj\Debug\1072040finalproject.pdb
